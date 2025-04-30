@@ -9,6 +9,7 @@ public class NonRepChar {
                 stringBuilder.append(c);
             }
         }
+        System.out.println("test");
         return stringBuilder.toString();
     }
 
